@@ -1,0 +1,25 @@
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\Gill Sans Ultra Bold.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\GameBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\DeskTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\BatTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\BossTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\PauseBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\CoinTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\WhackTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\WhompTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\WhackAboss.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\WhackAboss.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\WhackAboss.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\WhackAboss.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\WhackABoss.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\KickSound.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\ScreamSound.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\TriggerSound.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\MenuItems.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\ClockTexture.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\MainMusic.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\MainMusic.wma
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\PlusTexture.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\SpeakerTexture.xnb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\MenuItems2.xnb

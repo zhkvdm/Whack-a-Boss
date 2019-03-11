@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>GameBackground.png</Source>
+      <Name>GameBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\GameBackground.xnb</Output>
+      <Time>2015-11-29T16:21:14.2870936+03:00</Time>
+    </Item>
+    <Item>
+      <Source>DeskTextureL2.png</Source>
+      <Name>DeskTextureL2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\DeskTextureL2.xnb</Output>
+      <Time>2015-10-21T20:47:35.2118749+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BatTexture.png</Source>
+      <Name>BatTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BatTexture.xnb</Output>
+      <Time>2015-11-29T15:56:24.1729921+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BossTextureAlone.png</Source>
+      <Name>BossTextureAlone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BossTextureAlone.xnb</Output>
+      <Time>2015-12-05T17:36:17.9539795+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseBackground.png</Source>
+      <Name>PauseBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\PauseBackground.xnb</Output>
+      <Time>2015-12-12T15:17:56.81497+03:00</Time>
+    </Item>
+    <Item>
+      <Source>CoinTexture.png</Source>
+      <Name>CoinTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\CoinTexture.xnb</Output>
+      <Time>2015-12-06T13:39:41.1504573+03:00</Time>
+    </Item>
+    <Item>
+      <Source>WhackTexture.png</Source>
+      <Name>WhackTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\WhackTexture.xnb</Output>
+      <Time>2015-12-06T14:17:45.5873666+03:00</Time>
+    </Item>
+    <Item>
+      <Source>WhompTexture.png</Source>
+      <Name>WhompTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\WhompTexture.xnb</Output>
+      <Time>2015-12-06T14:17:45.5873666+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ClockTexture.png</Source>
+      <Name>ClockTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\ClockTexture.xnb</Output>
+      <Time>2015-12-12T16:18:04.2609446+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuItems2.png</Source>
+      <Name>MenuItems2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\MenuItems2.xnb</Output>
+      <Time>2015-12-12T17:52:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>PlusTexture.png</Source>
+      <Name>PlusTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\PlusTexture.xnb</Output>
+      <Time>2016-03-08T17:07:01.1384721+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SpeakerTexture.png</Source>
+      <Name>SpeakerTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\SpeakerTexture.xnb</Output>
+      <Time>2016-03-08T17:07:01.1540802+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuItems.png</Source>
+      <Name>MenuItems</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\MenuItems.xnb</Output>
+      <Time>2016-03-08T20:43:41.6790211+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BossRedTexture.png</Source>
+      <Name>BossRedTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BossRedTexture.xnb</Output>
+      <Time>2016-03-10T20:02:05.80999+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BossTexture.png</Source>
+      <Name>BossTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BossTexture.xnb</Output>
+      <Time>2016-03-10T21:29:06.8820348+03:00</Time>
+    </Item>
+    <Item>
+      <Source>DeskTextureL1.png</Source>
+      <Name>DeskTextureL1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\DeskTextureL1.xnb</Output>
+      <Time>2016-04-03T12:58:28.864001+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Gill Sans Ultra Bold.spritefont</Source>
+      <Name>Gill Sans Ultra Bold</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\Gill Sans Ultra Bold.xnb</Output>
+      <Time>2016-03-07T20:36:40.7055353+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ScreamSound.wav</Source>
+      <Name>ScreamSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\ScreamSound.xnb</Output>
+      <Time>2015-12-08T15:22:16.4740298+03:00</Time>
+    </Item>
+    <Item>
+      <Source>TriggerSound.wav</Source>
+      <Name>TriggerSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\TriggerSound.xnb</Output>
+      <Time>2015-12-08T15:22:16.4790326+03:00</Time>
+    </Item>
+    <Item>
+      <Source>KickSound.wav</Source>
+      <Name>KickSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\KickSound.xnb</Output>
+      <Time>2015-12-08T14:20:26.5128058+03:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMusic.mp3</Source>
+      <Name>MainMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\MainMusic.xnb</Output>
+      <Extra>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\MainMusic.wma</Extra>
+      <Time>2016-03-08T16:42:51.3490419+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D63D2C36-E494-4C13-9B5B-771ACE358E43}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-09-13T18:37:43.5589715+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,18 @@
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\P1_1.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\P1_1.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\P1_1.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\P1_1.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Debug\P1_1.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\Gill Sans Ultra Bold.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\GameButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\ScoresButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\GameBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\DeskTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\BatTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\BossTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\PauseBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\CoinTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\WhackTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Debug\Content\WhompTexture.xnb

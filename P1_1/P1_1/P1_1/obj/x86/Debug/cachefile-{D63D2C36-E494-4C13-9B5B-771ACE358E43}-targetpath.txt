@@ -1,0 +1,19 @@
+Content\Gill Sans Ultra Bold.xnb
+Content\GameBackground.xnb
+Content\DeskTexture.xnb
+Content\BatTexture.xnb
+Content\BossTexture.xnb
+Content\PauseBackground.xnb
+Content\CoinTexture.xnb
+Content\WhackTexture.xnb
+Content\WhompTexture.xnb
+Content\KickSound.xnb
+Content\ScreamSound.xnb
+Content\TriggerSound.xnb
+Content\MenuItems.xnb
+Content\ClockTexture.xnb
+Content\MainMusic.xnb
+Content\MainMusic.wma
+Content\PlusTexture.xnb
+Content\SpeakerTexture.xnb
+Content\MenuItems2.xnb

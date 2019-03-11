@@ -1,0 +1,17 @@
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\GameBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\DeskTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BatTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\BossTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\PauseBackground.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\ExitButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\GameButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\ScoresButton.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\CoinTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\WhackTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\WhompTexture.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\Content\Gill Sans Ultra Bold.xnb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\P1_1.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\bin\x86\Release\P1_1.pdb
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Release\P1_1.exe
+C:\Users\Дмитрий\documents\visual studio 2012\Projects\P1_1\P1_1\P1_1\obj\x86\Release\P1_1.pdb
